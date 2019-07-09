@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Weather</string>
+    <string name="weather">Weather</string>
+    <string name="enter_your_location">Enter your location</string>
+    <string name="our_source_is_openweathermap_org">Our source is openweathermap.org</string>
+    <string name="submit">Submit</string>
+</resources>
