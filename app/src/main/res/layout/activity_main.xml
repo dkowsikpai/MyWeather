@@ -39,9 +39,10 @@
         android:text="@string/submit" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/weather"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_weight="0.8"
         android:text="TextView" />
 
     <TextView
